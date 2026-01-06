@@ -9,7 +9,7 @@
 
 -   Free software: MIT License
 -   Documentation: <https://hcand.github.io/geomapforfun>
-    
+
 
 ## Features
 

@@ -1,4 +1,4 @@
- 
+
 # geomapforfun module
 
 ::: geomapforfun.geomapforfun
