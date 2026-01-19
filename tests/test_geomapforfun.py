@@ -2,7 +2,6 @@
 
 """Tests for `geomapforfun` package."""
 
-
 import unittest
 
 from geomapforfun import geomapforfun
