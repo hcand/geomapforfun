@@ -1,3 +1,3 @@
 # foliummap module
 
-::: foliummap.foliummap
+::: geomapforfun.foliummap
