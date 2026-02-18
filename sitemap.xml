@@ -2,38 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://hcand.github.io/geomapforfun/</loc>
-         <lastmod>2026-01-06</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://hcand.github.io/geomapforfun/changelog/</loc>
-         <lastmod>2026-01-06</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://hcand.github.io/geomapforfun/common/</loc>
-         <lastmod>2026-01-06</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://hcand.github.io/geomapforfun/contributing/</loc>
-         <lastmod>2026-01-06</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://hcand.github.io/geomapforfun/faq/</loc>
-         <lastmod>2026-01-06</lastmod>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://hcand.github.io/geomapforfun/foliummap/</loc>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://hcand.github.io/geomapforfun/geomapforfun/</loc>
-         <lastmod>2026-01-06</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://hcand.github.io/geomapforfun/installation/</loc>
-         <lastmod>2026-01-06</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://hcand.github.io/geomapforfun/usage/</loc>
-         <lastmod>2026-01-06</lastmod>
+         <lastmod>2026-02-18</lastmod>
+    </url>
+    <url>
+         <loc>https://hcand.github.io/geomapforfun/examples/folium/</loc>
+         <lastmod>2026-02-18</lastmod>
     </url>
     <url>
          <loc>https://hcand.github.io/geomapforfun/examples/intro/</loc>
-         <lastmod>2026-01-06</lastmod>
+         <lastmod>2026-02-18</lastmod>
     </url>
 </urlset>
