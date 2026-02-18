@@ -2,5 +2,9 @@
 
 
 def hello_world():
-    """Prints "Hello World!" to the console."""
+    """Print 'Hello World!' to the console.
+    
+    This is a simple utility function that outputs a greeting message
+    to standard output.
+    """
     print("Hello World!")

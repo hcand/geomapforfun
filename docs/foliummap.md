@@ -1,0 +1,3 @@
+# foliummap module
+
+::: foliummap.foliummap
