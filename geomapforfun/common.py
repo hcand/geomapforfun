@@ -3,7 +3,7 @@
 
 def hello_world():
     """Print 'Hello World!' to the console.
-    
+
     This is a simple utility function that outputs a greeting message
     to standard output.
     """
